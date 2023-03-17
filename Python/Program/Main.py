@@ -1,5 +1,5 @@
 # import class dari file
-
+from Human import Human
 from Mahasiswa import Mahasiswa
 from Dosen import Dosen
 from BEM import BEM
